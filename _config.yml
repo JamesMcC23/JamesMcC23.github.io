@@ -20,9 +20,9 @@ favicon_version: 1 # Increment to force browsers to refresh the favicon
 
 # Site Author
 author:
-  name: "Student Name" # Name of the student
+  name: "James McCullough" # Name of the student
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Add short bio here" # Bio of the student
+  bio: "Hello it is me the epic game dev student James McCullough" # Bio of the student
   location: "Add location here" # Location of the student
   email: # Email of the student
 
@@ -50,7 +50,7 @@ author:
 # Site Footer
 footer: # Site footer
   links: # Footer links
-    - label: "Twitter" # Twitter link
+    - label: "LinkedIN" # Twitter link
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
       target: "_blank"
