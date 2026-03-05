@@ -24,7 +24,7 @@ author:
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Hello it is me the epic game dev student James McCullough" # Bio of the student
   location: "Add location here" # Location of the student
-  email:"email@email.com" # Email of the student
+  email: "email@email.com" # Email of the student
 
   # Author links
   links:
