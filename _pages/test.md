@@ -1,5 +1,5 @@
 ---
 title: "test page"
 layout: default
-permalink: /test-page/
+permalink: /pages/test-page/
 ---
