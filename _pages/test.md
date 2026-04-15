@@ -4,7 +4,9 @@ layout: default
 permalink: /test-page/
 ---
 
-
+<script>
+  var window_width = window.innerWidth;
+</script>
 
 <h1> WOW does <em>THIS</em> work?</h1>
 
