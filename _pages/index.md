@@ -12,7 +12,6 @@ header:
       target: "_blank"
 
 intro: 
-### About me
   - excerpt: 'Hi my name is James McCullough'
 feature_row:
   - image_path: /assets/images/placeholder.png
