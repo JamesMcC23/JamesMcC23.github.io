@@ -8,4 +8,8 @@ sidebar:
     - projects
 
 ---
-<h1> Pinata Panic!</h1> 
+<h2> Pinata Panic!</h2> 
+
+{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
+
+<h4> Pinata Panic is a platformer focused on fluid movement and gaining momentum through repeatedly bouncing off spikes.</h4>
