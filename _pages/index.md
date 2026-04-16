@@ -1,5 +1,5 @@
 ---
-title: "Page Title"
+title: "JamesMcC"
 layout: splash
 permalink: /
 header:
