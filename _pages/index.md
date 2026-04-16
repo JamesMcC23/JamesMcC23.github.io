@@ -11,10 +11,9 @@ header:
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
       target: "_blank"
 
-
-excerpt: "You can add text here."
 intro: 
-  - excerpt: 'You can also add text like this....'
+<h3> About me </h3>
+  - excerpt: 'Hi my name is James McCullough '
 feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
