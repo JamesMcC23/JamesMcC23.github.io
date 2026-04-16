@@ -12,8 +12,8 @@ header:
       target: "_blank"
 
 intro: 
-<h3> About me </h3>
-  - excerpt: 'Hi my name is James McCullough '
+### About me
+  - excerpt: 'Hi my name is James McCullough'
 feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
