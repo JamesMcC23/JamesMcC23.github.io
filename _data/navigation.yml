@@ -25,9 +25,9 @@ main:
 
 # Sidebar menu for the Projects page
 projects:
-  - title: "Game Jam"
+  - title: "Pinata Panic!"
     url: /projects/game-jam/
-  - title: "Capstone"
+  - title: "Fungal Caverns"
     url: /projects/capstone/
 
 # Sidebar menu for the Pages page
