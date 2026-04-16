@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 intro: 
-excerpt: 'Hi my name is James McCullough'
+  - excerpt: 'Hi my name is James McCullough'
 feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
