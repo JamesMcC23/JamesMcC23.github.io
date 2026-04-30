@@ -20,7 +20,7 @@ main:
         url: /pages/splash/
   - title: "Components"
     url: /components/
-  - title: "Test page"
+  - title: "Contact info"
     url: /test-page/
 
 # Sidebar menu for the Projects page
