@@ -29,6 +29,8 @@ projects:
     url: /projects/game-jam/
   - title: "Fungal Caverns"
     url: /projects/capstone/
+  - title: "Neurosis"
+    url: /projects/neurosis/
 
 # Sidebar menu for the Pages page
 pages:
