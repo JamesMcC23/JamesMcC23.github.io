@@ -5,10 +5,12 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "Game Jam"
-        url: /projects/game-jam/
-      - title: "Capstone"
-        url: /projects/capstone/
+      - title: "Pinata Panic!"
+        url: /projects/pinata-panic/
+      - title: "Fungal Caverns"
+        url: /projects/fungal-caverns/
+      - title: "Neurosis"
+        url: /projects/neurosis/
   - title: "Contact info"
     url: /contact-info/
 
