@@ -10,7 +10,7 @@ main:
       - title: "Capstone"
         url: /projects/capstone/
   - title: "Contact info"
-    url: /test-page/
+    url: /contact-info/
 
 # Sidebar menu for the Projects page
 projects:
