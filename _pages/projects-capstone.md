@@ -1,7 +1,7 @@
 ---
 title: "Fungal Caverns"
 layout: single
-permalink: /projects/FungalCaverns/
+permalink: /projects/fungal-caverns/
 sidebar:
   title: "Projects"
   nav:
