@@ -1,7 +1,7 @@
 ---
-title: "test page"
+title: "Contact Info"
 layout: default
-permalink: /test-page/
+permalink: /contact-info/
 ---
 
 <script>
