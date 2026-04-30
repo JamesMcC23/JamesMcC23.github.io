@@ -2,10 +2,6 @@
 title: "About me"
 layout: single
 permalink: /about-me/
-sidebar:
-  title: "Projects"
-  nav:
-    - projects
 ---
 
 <h2> About me</h2> 
