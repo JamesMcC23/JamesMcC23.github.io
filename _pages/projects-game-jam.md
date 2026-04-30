@@ -1,7 +1,7 @@
 ---
 title: "Pinata Panic!"
 layout: single
-permalink: /projects/game-jam/
+permalink: /projects/pinata-panic/
 sidebar:
   title: "Projects"
   nav:
