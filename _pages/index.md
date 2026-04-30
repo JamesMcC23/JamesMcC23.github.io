@@ -13,7 +13,7 @@ header:
 
 intro: 
   - excerpt: 'Hi my name is James McCullough'
-  - {% include button url="/projects/about-me" label="Find out more" class="btn--primary" %}
+{% include button url="/projects/about-me" label="Find out more" class="btn--primary" %}
 feature_row:
   - image_path: /assets/images/pinata_panic.png
     alt: "Pinata panic"
